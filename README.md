@@ -49,5 +49,5 @@ Required to model the price of houses with the available independent variables. 
 
 # Contact 
 
-Rajesh sharma
-rajesh291093@gmail.com
+Ajay Mehta
+dev.ajaymehta@gmail.com
